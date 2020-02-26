@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  height: 50vh;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+button {
+  padding: 2rem 1rem;
+  background-color: crimson;
+  border: 2px solid black;
+  color: white;
+  cursor: pointer;
+}
+
+.result-container {
+  text-align: center;
+}
